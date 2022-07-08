@@ -58,7 +58,7 @@ message();
 
 particlesJS("particles-js", {
   particles: {
-    number: { value: 400, density: { enable: true, value_area: 800 } },
+    number: { value: 350, density: { enable: true, value_area: 800 } },
     color: {
       value: [
         "#249EC9",
@@ -97,7 +97,7 @@ particlesJS("particles-js", {
     },
     move: {
       enable: true,
-      speed: 8,
+      speed: 7,
       direction: "top",
       random: true,
       straight: false,
